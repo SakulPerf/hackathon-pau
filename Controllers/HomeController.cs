@@ -19,6 +19,20 @@ namespace hackathon_pau.Controllers
         {
             return View();
         }
+         public IActionResult Pui()
+        {
+            return View();
+        }
+        
+        public IActionResult Mrnut()
+        {
+            return View();
+        }
+
+        public IActionResult Gen()
+        {
+            return View();
+        }
 
         public IActionResult Diamond()
         {
