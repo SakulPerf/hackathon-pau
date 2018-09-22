@@ -19,6 +19,11 @@ namespace hackathon_pau.Controllers
         {
             return View();
         }
+        
+        public IActionResult Mrnut()
+        {
+            return View();
+        }
 
         public IActionResult About()
         {
