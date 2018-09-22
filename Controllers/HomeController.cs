@@ -25,6 +25,11 @@ namespace hackathon_pau.Controllers
             return View();
         }
 
+        public IActionResult Gen()
+        {
+            return View();
+        }
+
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
